@@ -39,6 +39,7 @@ Most of the upper slope is 30-45 degrees, and the steepest areas are the crater 
 ![Trails close-up](figures/closeup_trails.png)
 
 At 0.5 m resolution, the switchback climbing trails are clearly visible as flat paths on the steep slope.
+Comparison with OpenStreetMap shows that the study area covers the upper Fujinomiya and Gotemba trails on the south-east side of the summit, together with supply roads between the mountain huts.
 
 ## Limitations
 
